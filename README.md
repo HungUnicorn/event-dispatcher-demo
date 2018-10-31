@@ -1,4 +1,4 @@
-# follower-maze
+# event-dispatcher-example
 
 Receive events and distribute them to connected user clients
 based on the information in the events
