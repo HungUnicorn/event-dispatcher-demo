@@ -4,7 +4,7 @@ Receive events and distribute them to connected user clients
 based on the information in the events
 
 ## How to start
-Import the project and run `FollowerMazeApplication`
+Import the project and run `Application`
 
 
 ## Explanation
