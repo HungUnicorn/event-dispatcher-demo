@@ -17,7 +17,7 @@ import java.util.concurrent.Executors;
 /**
  * Start two servers, one for user client, the other for event source.
  * */
-public class FollowerMazeApplication {
+public class Application {
     public static void main(String[] args) {
         // Size varies based on the connections
         Executor executor = Executors.newFixedThreadPool(100);
